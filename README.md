@@ -1,4 +1,4 @@
-[TITI](./titi.png)
+[TITI](./titi.jpg)
 # Programación con objetos I
 ## Presentación Personal
 
